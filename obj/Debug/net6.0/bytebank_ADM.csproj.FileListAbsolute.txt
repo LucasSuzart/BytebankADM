@@ -1,0 +1,15 @@
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.exe
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.deps.json
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.runtimeconfig.json
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.dll
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\ref\bytebank_ADM.dll
+C:\Alura Conteudo\bytebank_ADM\bin\Debug\net6.0\bytebank_ADM.pdb
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.AssemblyReference.cache
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfoInputs.cache
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.AssemblyInfo.cs
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.csproj.CoreCompileInputs.cache
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.dll
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\ref\bytebank_ADM.dll
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.pdb
+C:\Alura Conteudo\bytebank_ADM\obj\Debug\net6.0\bytebank_ADM.genruntimeconfig.cache
