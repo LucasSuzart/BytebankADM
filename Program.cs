@@ -1,7 +1,6 @@
 ﻿
 using bytebank_ADM.Funcionarios;
 
-Console.WriteLine("Hello, World!");
 
 Funcionario Pedro = new Funcionario();
 
